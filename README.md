@@ -5,11 +5,11 @@ This is a Python-based Face Recognition Attendance System that uses machine lear
 ## Table of Contents
 
 - [Introduction]
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Requirements]
+- [Installation]
+- [Usage]
+- [Contributing]
+- [License]
 
 ## Introduction
 
@@ -47,18 +47,10 @@ To start the web application, run the following command:
 python app.py
 ```
 
-This will start the Flask server on port 5000. Open your web browser and go to http://localhost:5000 to access the web application.
-
+This will start the Flask server on port 5000. Open your web browser and go to your localhost to access the web application.
 On the home page, you will see a list of students who have attended the class today. To start the face recognition system, click on the "Take Attendance" button.
-
 You can add new students to the system by clicking on the "Add Student" button. You need to provide the student's name and ID number, and upload a photo of the student's face.
-
 You can also view a list of all registered students by clicking on the "List Students" button. From here, you can delete a student's record from the system.
-
 ## Contributing
 
 Contributions are always welcome! If you find any bugs or have any suggestions, please create an issue or a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
