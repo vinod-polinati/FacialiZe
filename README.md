@@ -1,4 +1,4 @@
-# Face Recognition Attendance System
+# FacialiZe
 
 This is a Python-based Face Recognition Attendance System that uses machine learning to identify students' faces and records their attendance automatically.
 
